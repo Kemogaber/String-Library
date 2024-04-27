@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1714251688 source:c:\users\kareem\downloads\c tasks\lec 1) task\mystring\main.c
+	"My_String.h"
+
+1714252968 c:\users\kareem\downloads\c tasks\lec 1) task\mystring\my_string.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1714252968 source:c:\users\kareem\downloads\c tasks\lec 1) task\mystring\my_string.c
+	"My_String.h"
+
